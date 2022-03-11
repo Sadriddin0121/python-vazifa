@@ -1,11 +1,3 @@
-#a=int(input(' 1 - butun sonni kiriting == '))
-#b=int(input(' 2 - butun sonni kiriting == '))
-
-#for n in range(a,b+1):
-#    print(n)
-
-
-
 a=float(input(' 1 - koeffesentni kiriting == '))
 b=float(input(' 2 - koeffisentni kiriting == '))
 c=float(input(' ozod hadni kiriting kiriting == '))
